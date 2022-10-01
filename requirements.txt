@@ -1,4 +1,4 @@
-boto3==1.4.4
+boto3==1.4.5
 bs4==0.0.1
 Markdown==2.6.10
 Pelican==3.6.3
